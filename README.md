@@ -6,7 +6,10 @@
 | 4 | [Median of Two Sorted Arrays](https://github.com/prakashpnvs/Leetcode/blob/master/src/hard/Median_Of_Two_Sorted_Arrays/Solution.java) |
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_Duplicates_from_Sorted_Array/Solution.java) |
 | 27 | [Remove Element](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_Element/Solution.java) |
+| 35 | [Search Insert Position](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Search_Insert_Position/Solution.java) |
+| 66 | [Plus One](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Plus_One/Solution.java) |
 | 136 | [Single Number](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Single_Number/Solution.java) |
+| 193 | [Valid Phone Numbers](https://github.com/prakashpnvs/Leetcode/blob/master/src/Shell/ValidPhoneNumbers.sh) |
 | 283 | [Move Zeroes](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Move_Zeroes/Solution.java)|
 | 344 | [Reverse String](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Reverse_String/Solution.java) |
 | 442 | [Find All Duplicates in an Array](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Find_All_Duplicates_In_An_Array/Solution.java) |
