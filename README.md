@@ -10,12 +10,15 @@
 | 66 | [Plus One](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Plus_One/Solution.java) |
 | 136 | [Single Number](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Single_Number/Solution.java) |
 | 193 | [Valid Phone Numbers](https://github.com/prakashpnvs/Leetcode/blob/master/src/Shell/ValidPhoneNumbers.sh) |
-| 234 | [Palindrome Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Palindrome_Linked_List/Solution.java) |
+| 206 | [Reverse Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Reverse_Linked_List/Solution.java)|
+| 234 | [Palindrome Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Palindrome_Linked_List/Solution.java)|
+| 237 | [Delete Node in a Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Delete_Node_in_a_Linked_List/Solution.java)|
 | 283 | [Move Zeroes](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Move_Zeroes/Solution.java)|
 | 344 | [Reverse String](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Reverse_String/Solution.java) |
 | 370 | [Range Addition](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Range_Addition/Solution.java) |
 | 442 | [Find All Duplicates in an Array](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Find_All_Duplicates_In_An_Array/Solution.java) |
 | 804 | [Unique Morse Code Words](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Unique_Morse_Code_Words/Solution.java) |
+| 876 | [Middle Of the Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Middle_of_the_Linked_List/Solution.java)|
 | 1047 | [Remove All Adjacent Duplicates in String](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_All_Adjacent_Duplicates_In_String/Solution.java) |
 | 1064 | [Fixed Point](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Fixed_Point/Solution.java) |
 | 1085 | [Sum of Digits in the Minimum Number](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Sum_Of_Digits_In_The_Minimum_Number/Solution.java) |
