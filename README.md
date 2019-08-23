@@ -8,8 +8,10 @@
 | 27 | [Remove Element](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_Element/Solution.java) |
 | 35 | [Search Insert Position](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Search_Insert_Position/Solution.java) |
 | 66 | [Plus One](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Plus_One/Solution.java) |
+| 83 | [Remove Duplicates From Sorted List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_Duplicates_From_Sorted_List/Solution.java)|
 | 136 | [Single Number](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Single_Number/Solution.java) |
 | 193 | [Valid Phone Numbers](https://github.com/prakashpnvs/Leetcode/blob/master/src/Shell/ValidPhoneNumbers.sh) |
+| 203 | [Remove Linked List Elements](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_Linked_List_Elements/Solution.java)|
 | 206 | [Reverse Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Reverse_Linked_List/Solution.java)|
 | 234 | [Palindrome Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Palindrome_Linked_List/Solution.java)|
 | 237 | [Delete Node in a Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Delete_Node_in_a_Linked_List/Solution.java)|
