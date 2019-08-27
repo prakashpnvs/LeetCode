@@ -14,18 +14,17 @@ package easy.Linked_List_Cycle;
 public class Solution {
     public boolean hasCycle(ListNode head) {
 
-        Set<ListNode> set = new HashSet<>();
+        ListNode slow = head;
+        ListNode fast = head;
 
-        ListNode currentNode = head;
-        ListNode nextNode = null;
-
-        while(currentNode != null) {
-            if(!set.isEmpty() && set.contains(currentNode.next)) {
+        while(fast != null && fast.next != null) {
+            if(fast.next == slow) {
                 return true;
-            } else {
-                set.add(currentNode);
             }
-            currentNode = currentNode.next;
+
+            slow = slow.next;
+            fast = fast.next.next;
+
         }
 
         return false;
