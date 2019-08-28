@@ -4,7 +4,9 @@
 | :--- | :--- |
 | 1 | [Two Sum](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Two_Sum/Solution.java) |
 | 4 | [Median of Two Sorted Arrays](https://github.com/prakashpnvs/Leetcode/blob/master/src/hard/Median_Of_Two_Sorted_Arrays/Solution.java) |
+| 19 | [Remove Nth Node From End of List](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Remove_Nth_Node_From_End_Of_List/Solution.java) |
 | 21 | [Merge Two Sorted Lists](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Merge_Two_Sorted_Lists/Solution.java) |
+| 23 | [Merge k Sorted Lists](https://github.com/prakashpnvs/Leetcode/blob/master/src/hard/Merge_k_Sorted_Lists/Solution.java)|
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_Duplicates_from_Sorted_Array/Solution.java) |
 | 27 | [Remove Element](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_Element/Solution.java) |
 | 35 | [Search Insert Position](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Search_Insert_Position/Solution.java) |
