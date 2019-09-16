@@ -26,7 +26,7 @@
 | 193 | [Valid Phone Numbers](https://github.com/prakashpnvs/Leetcode/blob/master/src/Shell/ValidPhoneNumbers.sh) |
 | 203 | [Remove Linked List Elements](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_Linked_List_Elements/Solution.java)|
 | 206 | [Reverse Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Reverse_Linked_List/Solution.java)|
-| 232 | [Implement Queue using Stacks](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Implement_Queue_using_Stacks/Solution.java) |
+| 232 | [Implement Queue using Stacks](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Implement_Queue_using_Stacks/MyQueue.java) |
 | 234 | [Palindrome Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Palindrome_Linked_List/Solution.java)|
 | 237 | [Delete Node in a Linked List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Delete_Node_in_a_Linked_List/Solution.java)|
 | 258 | [Add Digits](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Add_Digits/Solution.java) |
