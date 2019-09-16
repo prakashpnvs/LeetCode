@@ -1,5 +1,7 @@
 package easy.Implement_Queue_using_Stacks;
 
+import java.util.Stack;
+
 class MyQueue {
 
     /** Initialize your data structure here. */
