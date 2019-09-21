@@ -16,11 +16,16 @@
 | 35 | [Search Insert Position](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Search_Insert_Position/Solution.java) |
 | 41 | [First Missing Positive](https://github.com/prakashpnvs/Leetcode/blob/master/src/hard/First_Missing_Positive/Solution.java) |
 | 58 | [Length of Last Word](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Length_of_Last_Word/Solution.java) |
+| 61 | [Rotate List](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Rotate_List/Solution.java) |
 | 66 | [Plus One](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Plus_One/Solution.java) |
+| 82 | [Remove Duplicates From Sorted List II](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Remove_Duplicates_from_Sorted_List_II/Solution.java) |
 | 83 | [Remove Duplicates From Sorted List](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Remove_Duplicates_From_Sorted_List/Solution.java)|
+| 88 | [Merge Sorted Array](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Merge_Sorted_Array/Solution.java) |
 | 92 | [Reverse Linked List II](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Reverse_Linked_List_II/Solution.java) |
 | 136 | [Single Number](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Single_Number/Solution.java) |
 | 141 | [Linked List Cycle](https://github.com/prakashpnvs/Leetcode/blob/e330b3c6107cd2188479f514513ecce92165fcc6/src/easy/Linked_List_Cycle/Solution.java)|
+| 142 | [Linked List Cycle II](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Linked_List_Cycle_II/Solution.java) |
+| 147 | [Insertion Sort List](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Insertion_Sort_List/Solution.java) |
 | 148 | [Sort List](https://github.com/prakashpnvs/Leetcode/blob/master/src/medium/Sort_List/Solution.java) |
 | 160 | [Intersection of two Linked Lists](https://github.com/prakashpnvs/Leetcode/blob/master/src/easy/Intersection_Of_Two_Linked_Lists/Solution.java) |
 | 193 | [Valid Phone Numbers](https://github.com/prakashpnvs/Leetcode/blob/master/src/Shell/ValidPhoneNumbers.sh) |
